@@ -101,11 +101,11 @@
       ]
     },
     {
-      "name": "cheetah",
-      "species": "cat",
-      "diet": "carnivore",
+      "name": "RAYY",
+      "species": "DSHJS",
+      "diet": "omnivore",
       "personalityTraits": [
-        "hungry"
+        "zany"
       ],
       "id": "10"
     }
